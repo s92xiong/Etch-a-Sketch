@@ -1,0 +1,3 @@
+This Etch-A-Sketch project is a simple webpage that contains a sketchpad and marker for leisurely drawing. The user can format the grid to increase or decrease its size; a smaller grid will yield a larger pixelated marker and a larger grid will yield a finer marker.
+
+This project is intended for beginner developers like myself to gain fundamental skills using the DOM & Javascript to construct a dynamic webpage with HTML & CSS. Some examples of the skills demonstrated in this project involve creating HTML elements using JS arrays and loops, using variables, boolean values, and event functions to alter CSS styles (e.g. hover and mouseclicked) to add/remove HTML elements.
